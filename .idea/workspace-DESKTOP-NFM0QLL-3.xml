@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="900bcbaf-80e9-4134-8f47-275368dc3dbd" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HuIFIMh16QuiwDUkr83VZgD8yH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Ja/OneDrive/studia/III semestr/JP/lab1/kolekcje-master&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="PersonConsoleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tb.soft.PersonConsoleApp" />
+      <module name="kolekcje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tb.soft.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PersonConsoleApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="900bcbaf-80e9-4134-8f47-275368dc3dbd" name="Changes" comment="" />
+      <created>1669128436635</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669128436635</updated>
+      <workItem from="1669128438076" duration="915000" />
+      <workItem from="1669131259692" duration="1566000" />
+      <workItem from="1669307974685" duration="1536000" />
+      <workItem from="1669483412110" duration="9039000" />
+      <workItem from="1669550877212" duration="140000" />
+      <workItem from="1669551170487" duration="49000" />
+      <workItem from="1669559108503" duration="145000" />
+      <workItem from="1669567873766" duration="465000" />
+      <workItem from="1669568349559" duration="8329000" />
+      <workItem from="1669636373132" duration="21000" />
+      <workItem from="1669638206905" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
